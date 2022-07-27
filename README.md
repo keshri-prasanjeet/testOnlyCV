@@ -1,2 +1,2 @@
-# testOnlyCV
-test cv
+# basketBallScore
+Scrimba project 1
