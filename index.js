@@ -60,6 +60,7 @@ function end() {
     vals = 0;
     guest.textContent = vals;
     home.textContent = val;
+
 }
 
 function animateScore(element) {
@@ -67,6 +68,7 @@ function animateScore(element) {
     setTimeout(() => {
         element.style.transform = "scale(1)";
     }, 150);
+
 }
 
 function startGame() {

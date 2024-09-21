@@ -2,8 +2,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Press Start 2P', cursive;
-    background: #233241;
-    color: #ECF0F1;
+    background: #08427e;
+    color: #ffffff;
     overflow-x: hidden;
 }
 
@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(135deg, #3498DB 0%, #8b4fa4 100%);
+    background: linear-gradient(135deg, #2f93d5 0%, #732c91 100%);
     animation: heroFadeIn 2s ease-in-out forwards;
 }
 
@@ -28,7 +28,7 @@ body {
     padding: 1rem 3rem;
     font-size: 1.5rem;
     color: #FFF;
-    background: #E74C3C;
+    background: #ee4d3d;
     border: none;
     border-radius: 50px;
     cursor: pointer;
@@ -53,7 +53,7 @@ body {
 }
 
 .team {
-    background: #2b3d4f;
+    background: #253646;
     border-radius: 15px;
     padding: 2rem;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
@@ -66,23 +66,23 @@ body {
 .team h1 {
     font-size: 5rem;
     margin-bottom: 1rem;
-    color: #d74536;
+    color: #c53727;
 }
 
 .score-btn {
     padding: 0.5rem 1.5rem;
     font-size: 1.5rem;
-    background: #2f89c5;
+    background: #2870a2;
     border: none;
     border-radius: 10px;
-    color: #FFF;
+    color: #ffffff;
     margin: 0.5rem;
     cursor: pointer;
     transition: background 0.3s ease, transform 0.1s ease;
 }
 
 .score-btn:hover {
-    background: #2472a6;
+    background: #287ab2;
 }
 
 .score-btn:active {
@@ -98,7 +98,7 @@ body {
 .control-btn {
     padding: 1rem 2rem;
     font-size: 1.5rem;
-    background: #11977c;
+    background: #15947b;
     border: none;
     border-radius: 50px;
     color: #FFF;
@@ -107,7 +107,7 @@ body {
 }
 
 .control-btn:hover {
-    background: #169b82;
+    background: #179b83;
 }
 
 @keyframes fadeIn {
